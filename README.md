@@ -25,7 +25,24 @@ Applications of Merge Sort:
 Sorting large datasets
 External sorting (when the dataset is too large to fit in memory)
 Inversion counting (counting the number of inversions in an array)
-Finding the median of an array
+Finding the median of an array**
+
+
+**Buble Sort**
+Bubble Sort is the simplest sorting algorithm that repeatedly swaps the adjacent elements if they are in the wrong order.
+This algorithm is unsuitable for large data sets as its average and worst-case time complexity is quite high.
+
+Advantages of Bubble Sort:
+Bubble sort is easy to understand and implement.
+It does not require any additional memory space.
+It is a stable sorting algorithm, meaning that elements with the same key value maintain their relative order in the sorted output.
+Disadvantages of Bubble Sort:
+Bubble sort has a time complexity of O(N2) which makes it very slow for large data sets.
+Bubble sort is a comparison-based sorting algorithm, which requires a comparison operator to determine the relative order of elements in the input data set.
+It can limit the efficiency of the algorithm in certain cases.
+
+
+
 
 
 
