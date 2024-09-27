@@ -1,0 +1,6 @@
+tuplefruits=('Apple','Mango','Kiwi')
+print ("tuplefruits:", tuplefruits[0])
+my_tuple=(7,8,9,5,9,8,2)
+print(my_tuple[0])
+print(my_tuple[2:4])
+print(my_tuple[:3])
